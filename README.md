@@ -2,7 +2,7 @@
 
 - 🤚 Hi, my name is Lohhan;
 - 🖥️ Attending system analysis and development in college;
-- 🌐 Currently studying: HTML and CSS + JS, Java and Data Science
+- 🌐 Currently studying: HTML and CSS + JS, Java and Data Science;
   
 ##
 
