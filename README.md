@@ -1,8 +1,8 @@
-### Olá, me chamo Lohhan! 🚀
+### Hello, let me introduce myself to you! 🚀
 
-
-- 🖥️ cursando análise e desenvolvimento de sistemas - 2° período
-- 🌐 atualmente estudando html e css
+- 🤚 Hi, my name is Lohhan;
+- 🖥️ Attending system analysis and development in college;
+- 🌐 Currently studying: HTML and CSS + JS, Java and Data Science
   
 ##
 
