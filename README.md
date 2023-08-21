@@ -1,32 +1,37 @@
-### Hello, let me introduce myself to you! 🚀
+# 🚀 | Lohhan Guilherme
 
-- 🤚 Hi, my name is Lohhan;
-- 🖥️ Attending system analysis and development in college;
-- 🌐 Currently studying: HTML and CSS + JS, Java and Data Science;
+### 🙋‍♂️ | Who I am?
+
+Hello! I'm a technology enthusiast at the age of 18, passionate about exploring the wonders of the digital world. <br>
+Currently, I'm pursuing a degree in **Analysis and Systems Development** at college, where I'm diving deep into the vast universe of programming and software development;
+
+### 💻 | What I am currently learning?
+
+<div style="display: inline_block">
+  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=purple"/>
+  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=purple" />
+  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=purple"/>
+  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=purple"/>
+</div>
+
+### 🌐 | Connect with me
+
+<div> 
+  <a href="https://instagram.com/_lohhan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lohhan-guilherme" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=purple" target="_blank"></a>
+  <a href = "mailto:lohhang05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank"></a>  
+</div>
   
 ##
 
-### Stats
+### GitHub Stats 
 
 <div>
   <a href="https://github.com/lohhan"></a>
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=lohhan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"/>
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohhan&layout=compact&langs_count=16&theme=radical"/>
-</div>
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=lohhan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="lohhan-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="lohhan-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="lohhan-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-</div>
-
-##
-
-### Redes
-
-<div> 
-  <a href="https://instagram.com/_lohhan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lohhang05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lohhan-guilherme" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br> 
+  
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohhan&layout=compact&theme=midnight-purple"/>
   
 </div>
