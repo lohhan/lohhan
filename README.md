@@ -2,7 +2,7 @@
 
 ### 🙋‍♂️ | Who I am?
 
-Hello! I'm a technology enthusiast at the age of 18, passionate about exploring the wonders of the digital world. <br>
+Hello! I'm a technology enthusiast at the age of 19, passionate about exploring the wonders of the digital world. <br>
 Currently, I'm pursuing a degree in **Analysis and Systems Development** at college, where I'm diving deep into the vast universe of programming and software development;
 
 ### 💻 | What I am currently learning?
