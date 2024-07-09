@@ -8,10 +8,9 @@ Currently, I'm pursuing a degree in **Analysis and Systems Development** at Univ
 ### 💻 | What I am currently learning?
 
 <div style="display: inline_block">
-  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=purple"/>
-  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=purple" />
   <img align="center" style="padding: 2px" src="https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=purple"/>
   <img align="center" style="padding: 2px" src="https://img.shields.io/badge/python-000.svg?style=for-the-badge&logo=python&logoColor=purple"/>
+  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=purple"/>
 </div>
 
 ### 🌐 | Connect with me
