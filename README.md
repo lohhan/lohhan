@@ -21,16 +21,6 @@ Currently, I'm pursuing a degree in **Analysis and Systems Development** at Univ
   <a href = "mailto:lohhang05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank"></a>  
 </div>
   
-##
 
-### GitHub Stats 
 
-<div>
-  <a href="https://github.com/lohhan"></a>
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=lohhan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
 
-  <br> 
-  
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohhan&layout=compact&theme=midnight-purple"/>
-  
-</div>
