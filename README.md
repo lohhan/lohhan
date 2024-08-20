@@ -3,7 +3,7 @@
 ### 🙋‍♂️ | Who I am?
 
 Hello! I'm a technology enthusiast at the age of 19, passionate about exploring the digital world.<br>
-Currently, I'm pursuing a degree in **Analysis and Systems Development** at Universidade Tiradentes, where I'm diving deep into the vast universe of programming and software development;
+Currently, I'm pursuing a degree in **Software Analysis and Developmentt** at Universidade Tiradentes, where I'm diving deep into the vast universe of programming and software development;
 
 ### 💻 | What I am currently learning?
 
