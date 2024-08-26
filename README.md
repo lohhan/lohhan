@@ -10,6 +10,7 @@ Currently, I'm pursuing a degree in **Software Analysis and Development** at Uni
 <div style="display: inline_block">
   <img align="center" style="padding: 2px" src="https://img.shields.io/badge/django-000.svg?style=for-the-badge&logo=django&logoColor=purple"/>
   <img align="center" style="padding: 2px" src="https://img.shields.io/badge/python-000.svg?style=for-the-badge&logo=python&logoColor=purple"/>
+  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/react-000.svg?style=for-the-badge&logo=react&logoColor=purple"/>
   <img align="center" style="padding: 2px" src="https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=purple"/>
 </div>
 
