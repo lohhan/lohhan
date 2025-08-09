@@ -1,17 +1,20 @@
 # 🚀 | Lohhan Guilherme
 
-### 🙋‍♂️ | Who I am?
+### 🙋‍♂️ | Who I Am
 
-Hello! I'm a web developer.<br>
-Currently, I'm pursuing a degree in **Software Analysis and Development** at Universidade Tiradentes, where I'm diving deep into the vast universe of programming and software development;
+Hello! I'm a passionate **Web Developer** with a strong focus on building efficient, scalable, and high-quality software solutions.  
+I hold a degree in **Systems Analysis and Development** and am about to start my **postgraduate studies in .NET Systems Architecture**.  
+
+Currently, I work at **SIEG** as a **Mid-Level Systems Analyst**, contributing to the design, development, and maintenance of enterprise applications, always aiming to deliver robust and innovative solutions.
+
 
 ### 💻 | What I am currently learning?
 
 <div style="display: inline_block">
-  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/django-000.svg?style=for-the-badge&logo=django&logoColor=purple"/>
-  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/python-000.svg?style=for-the-badge&logo=python&logoColor=purple"/>
-  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/react-000.svg?style=for-the-badge&logo=react&logoColor=purple"/>
-  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=purple"/>
+  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/.NET-000.svg?style=for-the-badge&logo=.NET&logoColor=purple"/>
+  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=purple"/>
+  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/vuejs-000.svg?style=for-the-badge&logo=vuedotjs&logoColor=purple"/>
+  <img align="center" style="padding: 2px" src="https://img.shields.io/badge/mongodb-000.svg?style=for-the-badge&logo=mongodb&logoColor=purple"/>
 </div>
 
 ### 🌐 | Connect with me
